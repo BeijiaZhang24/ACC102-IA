@@ -48,9 +48,13 @@ To reproduce this project:
 
 - Ensure that you have institutional access to WRDS
 - Install the required Python packages:
-   pip install pandas matplotlib seaborn wrds
+
+  pip install pandas matplotlib seaborn wrds
+
 - Open the notebook:
-   monthly_stock_performance_nvda_wrds.ipynb
+
+  monthly_stock_performance_nvda_wrds.ipynb
+
  Run all cells in order.
 
 **Important:** Reproducing the data extraction step requires valid WRDS access.
