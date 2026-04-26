@@ -57,7 +57,11 @@ To reproduce this project:
 
  Run all cells in order.
 
-**Important:** Reproducing the data extraction step requires valid WRDS access.
+**Important:** 
+
+Reproducing the data extraction step requires valid WRDS access.
+
+The visualisations will be saved automatically in the images/ folder when the notebook is run.
 
 ## 6. Product link / Demo
 - GitHub repository: [insert GitHub repository link here]
