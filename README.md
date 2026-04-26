@@ -60,11 +60,11 @@ GitHub repository: [insert GitHub repository link here]
 Demo video: [insert demo video link here]
 
 ## 7. Limitations & next steps
-Limitations
+**Limitations：**
 This project focuses on only one company, so it does not provide cross-company comparison.
 The analysis is mainly descriptive and does not include advanced forecasting models.
 Reproducing the extraction step depends on access to WRDS.
-Next steps
+**Next steps：**
 Compare NVIDIA with other major technology companies such as Apple, Microsoft, or AMD.
 Add rolling volatility or cumulative return analysis.
 Extend the project to daily stock data.
