@@ -46,24 +46,25 @@ The analysis was completed in Python with SQL-based extraction from WRDS. The ma
 ## 5. How to run
 To reproduce this project:
 
-1. Ensure that you have institutional access to WRDS
-2. Install the required Python packages:
+- Ensure that you have institutional access to WRDS
+- Install the required Python packages:
    pip install pandas matplotlib seaborn wrds
-3. Open the notebook:
+- Open the notebook:
    monthly_stock_performance_nvda_wrds.ipynb
  Run all cells in order.
 
 **Important:** Reproducing the data extraction step requires valid WRDS access.
 
 ## 6. Product link / Demo
-GitHub repository: [insert GitHub repository link here]
-Demo video: [insert demo video link here]
+- GitHub repository: [insert GitHub repository link here]
+- Demo video: [insert demo video link here]
 
 ## 7. Limitations & next steps
 **Limitations：**
 This project focuses on only one company, so it does not provide cross-company comparison.
 The analysis is mainly descriptive and does not include advanced forecasting models.
 Reproducing the extraction step depends on access to WRDS.
+
 **Next steps：**
 Compare NVIDIA with other major technology companies such as Apple, Microsoft, or AMD.
 Add rolling volatility or cumulative return analysis.
