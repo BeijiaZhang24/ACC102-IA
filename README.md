@@ -65,7 +65,7 @@ The visualisations will be saved automatically in the images/ folder when the no
 
 ## 6. Product link / Demo
 - GitHub repository: https://github.com/BeijiaZhang24/ACC102-IA
-- Demo video: TBD
+- Demo video: https://video.xjtlu.edu.cn/Mediasite/MyMediasite/embedded/presentations/7cd26a7142af4f04934d59b409288f141d
 
 ## 7. Limitations & next steps
 **Limitations：**
