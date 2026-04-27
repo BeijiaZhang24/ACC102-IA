@@ -64,8 +64,8 @@ Reproducing the data extraction step requires valid WRDS access.
 The visualisations will be saved automatically in the images/ folder when the notebook is run.
 
 ## 6. Product link / Demo
-- GitHub repository: [insert GitHub repository link here]
-- Demo video: [insert demo video link here]
+- GitHub repository: https://github.com/BeijiaZhang24/ACC102-IA
+- Demo video: TBD
 
 ## 7. Limitations & next steps
 **Limitations：**
